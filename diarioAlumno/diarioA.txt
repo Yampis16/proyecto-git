@@ -1,3 +1,13 @@
 Aquí viene tu diario
 
 añadiendo una nueva funcionalidad para el reto git
+
+6:00 Me levanto somnoliento
+6:30 Preparando Cafe
+7:00 De camino a la oficina
+13:00 Almuerzo
+18:00 Fin de la jornada laboral
+19:00 Aprendiendo git
+20:00 Cena
+21:30 Jugar
+22:00 A dormir
